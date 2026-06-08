@@ -207,5 +207,7 @@ ORDER BY title_count DESC;
 
 4). *Genre Diversification:* If Netflix has a broad range of genres, it may indicate that Netflix is attempting to cater to as many niche audiences as possible, whereas a dominant focus on a few genres could suggest a more targeted approach in order to build a loyal subscriber base.
 
+<img width="1231" height="835" alt="dashboard preview" src="https://github.com/user-attachments/assets/a86116b1-794e-4efa-b325-c47b3ef61705" />
+
 
 
